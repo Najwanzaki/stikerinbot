@@ -20,8 +20,8 @@ const defaultMenu = {
 │
 ├ Uptime: *%uptime (%muptime)*
 ├ Database: %rtotalreg dari %totalreg
-├ Github:
-├ %github
+├ Buy Role GTPS? Price List At Deskripsi Group
+│
 └────
 %readmore`.trimStart(),
   header: '┌─〔 %category 〕',
